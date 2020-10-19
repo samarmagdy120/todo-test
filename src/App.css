@@ -1,0 +1,51 @@
+.title-app{
+    background-color: #eee;
+    border-bottom: 1px solid #888;
+    padding: 27px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.input-name{
+    width: 78%;
+    margin: auto;
+    display: block;
+    padding: 25px 20px;
+    outline: none;
+}
+::-webkit-input-placeholder { 
+    font-size: 28px;
+  }
+  ::-moz-placeholder { 
+    font-size: 28px;
+
+  }
+  :-ms-input-placeholder { 
+    font-size: 28px;
+
+  }
+  :-moz-placeholder { 
+    font-size: 28px;
+
+  }
+
+ul {
+    list-style: none;
+}
+.item-name{
+    display: block;
+    font-size: 27px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.item-list{
+    background-color: #eee;
+    border: 1px solid #888;
+    padding: 20px;
+    margin-top: 20px;
+}
+.btn{
+border: none;
+border-radius: 0px !important;
+margin-left: 20px;
+}
